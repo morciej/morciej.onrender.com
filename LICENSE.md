@@ -1,248 +1,349 @@
-Free Art License 1.3 (FAL 1.3)
-
-Preamble
-
-The Free Art License grants the right to freely copy, distribute, and
-transform creative works without infringing the author's rights.
-
-The Free Art License recognizes and protects these rights. Their
-implementation has been reformulated in order to allow everyone to use
-creations of the human mind in a creative manner, regardless of their
-types and ways of expression.
-
-While the public's access to creations of the human mind usually is
-restricted by the implementation of copyright law, it is favoured by
-the Free Art License. This license intends to allow the use of a
-work’s resources; to establish new conditions for creating in order to
-increase creation opportunities. The Free Art License grants the right
-to use a work, and acknowledges the right holder’s and the user’s
-rights and responsibility.
-
-The invention and development of digital technologies, Internet and
-Free Software have changed creation methods: creations of the human
-mind can obviously be distributed, exchanged, and transformed. They
-allow to produce common works to which everyone can contribute to the
-benefit of all.
-
-The main rationale for this Free Art License is to promote and protect
-these creations of the human mind according to the principles of
-copyleft: freedom to use, copy, distribute, transform, and prohibition
-of exclusive appropriation.
-
-Definitions
-
-“work” either means the initial work, the subsequent works or the
-common work as defined hereafter:
-
-“common work” means a work composed of the initial work and all
-subsequent contributions to it (originals and copies). The initial
-author is the one who, by choosing this license, defines the
-conditions under which contributions are made.
-
-“Initial work” means the work created by the initiator of the common
-work (as defined above), the copies of which can be modified by
-whoever wants to
-
-“Subsequent works” means the contributions made by authors who
-participate in the evolution of the common work by exercising the
-rights to reproduce, distribute, and modify that are granted by the
-license.
-
-“Originals” (sources or resources of the work) means all copies of
-either the initial work or any subsequent work mentioning a date and
-used by their author(s) as references for any subsequent updates,
-interpretations, copies or reproductions.
-
-“Copy” means any reproduction of an original as defined by this
-license.
-
-1. OBJECT
-
-The aim of this license is to define the conditions under which one
-can use this work freely.
-
-2. SCOPE
-
-This work is subject to copyright law. Through this license its author
-specifies the extent to which you can copy, distribute, and modify it.
-
-2.1 FREEDOM TO COPY (OR TO MAKE REPRODUCTIONS)
-
-You have the right to copy this work for yourself, your friends or any
-other person, whatever the technique used.
-
-2.2 FREEDOM TO DISTRIBUTE, TO PERFORM IN PUBLIC
-
-You have the right to distribute copies of this work; whether modified
-or not, whatever the medium and the place, with or without any charge,
-provided that you: attach this license without any modification to the
-copies of this work or indicate precisely where the license can be
-found, specify to the recipient the names of the author(s) of the
-originals, including yours if you have modified the work, specify to
-the recipient where to access the originals (either initial or
-subsequent).
-
-The authors of the originals may, if they wish to, give you the right
-to distribute the originals under the same conditions as the copies.
-
-2.3 FREEDOM TO MODIFY
-
-You have the right to modify copies of the originals (whether initial
-or subsequent) provided you comply with the following conditions: all
-conditions in article 2.2 above, if you distribute modified copies;
-indicate that the work has been modified and, if it is possible, what
-kind of modifications have been made; distribute the subsequent work
-under the same license or any compatible license.
-
-The author(s) of the original work may give you the right to modify it
-under the same conditions as the copies.
-
-3. RELATED RIGHTS
-
-Activities giving rise to author’s rights and related rights shall not
-challenge the rights granted by this license.
-
-For example, this is the reason why performances must be subject to
-the same license or a compatible license. Similarly, integrating the
-work in a database, a compilation or an anthology shall not prevent
-anyone from using the work under the same conditions as those defined
-in this license.
-
-4. INCORPORATION OF THE WORK
-
-Incorporating this work into a larger work that is not subject to the
-Free Art License shall not challenge the rights granted by this
-license.
-
-If the work can no longer be accessed apart from the larger work in
-which it is incorporated, then incorporation shall only be allowed
-under the condition that the larger work is subject either to the Free
-Art License or a compatible license.
-
-5. COMPATIBILITY
-
-A license is compatible with the Free Art License provided: it gives
-the right to copy, distribute, and modify copies of the work including
-for commercial purposes and without any other restrictions than those
-required by the respect of the other compatibility criteria; it
-ensures proper attribution of the work to its authors and access to
-previous versions of the work when possible; it recognizes the Free
-Art License as compatible (reciprocity); it requires that changes made
-to the work be subject to the same license or to a license which also
-meets these compatibility criteria.
-
-6. YOUR INTELLECTUAL RIGHTS
-
-This license does not aim at denying your author's rights in your
-contribution or any related right. By choosing to contribute to the
-development of this common work, you only agree to grant others the
-same rights with regard to your contribution as those you were granted
-by this license. Conferring these rights does not mean you have to
-give up your intellectual rights.
-
-7. YOUR RESPONSIBILITIES
-
-The freedom to use the work as defined by the Free Art License (right
-to copy, distribute, modify) implies that everyone is responsible for
-their own actions.
-
-8. DURATION OF THE LICENSE
-
-This license takes effect as of your acceptance of its terms. The act
-of copying, distributing, or modifying the work constitutes a tacit
-agreement. This license will remain in effect for as long as the
-copyright which is attached to the work. If you do not respect the
-terms of this license, you automatically lose the rights that it
-confers.
-
-If the legal status or legislation to which you are subject makes it
-impossible for you to respect the terms of this license, you may not
-make use of the rights which it confers.
-
-9. VARIOUS VERSIONS OF THE LICENSE
-
-This license may undergo periodic modifications to incorporate
-improvements by its authors (instigators of the “Copyleft Attitude”
-movement) by way of new, numbered versions.
-
-You will always have the choice of accepting the terms contained in
-the version under which the copy of the work was distributed to you,
-or alternatively, to use the provisions of one of the subsequent
-versions.
-
-10. SUB-LICENSING
-
-Sub-licenses are not authorized by this license. Any person wishing to
-make use of the rights that it confers will be directly bound to the
-authors of the common work.
-
-11. LEGAL FRAMEWORK
-
-This license is written with respect to both French law and the Berne
-Convention for the Protection of Literary and Artistic Works.
-
-USER GUIDE
-
-- How to use the Free Art License?
-
-To benefit from the Free Art License, you only need to mention the
-following elements on your work:
-
-  [Name of the author, title, date of the work. When applicable, names
-  of authors of the common work and, if possible, where to find the
-  originals].
-
-Copyleft: This is a free work, you can copy, distribute, and modify it
-under the terms of the Free Art License
-http://artlibre.org/licence/lal/en/
-
-- Why to use the Free Art License?
-
-  1.To give the greatest number of people access to your work.
-
-  2.To allow it to be distributed freely.
-
-  3.To allow it to evolve by allowing its copy, distribution, and
-    transformation by others.
-
-  4.So that you benefit from the resources of a work when it is under
-    the Free Art License: to be able to copy, distribute or transform
-    it freely.
-
-  5.But also, because the Free Art License offers a legal framework to
-    disallow any misappropriation. It is forbidden to take hold of
-    your work and bypass the creative process for one's exclusive
-    possession.
-
-
-- When to use the Free Art License?
-
-Any time you want to benefit and make others benefit from the right to
-copy, distribute and transform creative works without any exclusive
-appropriation, you should use the Free Art License. You can for
-example use it for scientific, artistic or educational projects.
-
-- What kinds of works can be subject to the Free Art License?
-
-The Free Art License can be applied to digital as well as physical
-works.  You can choose to apply the Free Art License on any text,
-picture, sound, gesture, or whatever sort of stuff on which you have
-sufficient author's rights.
-
-- Historical background of this license:
-
-It is the result of observing, using and creating digital
-technologies, free software, the Internet and art. It arose from the
-“Copyleft Attitude” meetings which took place in Paris in 2000. For
-the first time, these meetings brought together members of the Free
-Software community, artists, and members of the art world. The goal
-was to adapt the principles of Copyleft and free software to all sorts
-of creations. http://www.artlibre.org
-
-Copyleft Attitude, 2007.
-
-You can make reproductions and distribute this license verbatim
-(without any changes).
-
-    Translation : Jonathan Clarke, Benjamin Jean, Griselda Jung, Fanny
-    Mourguet, Antoine Pitrou.  Thanks to framalang.org 
+Creative writing content: Copyright &copy; Maciej Morycinski, 2023.
+
+Software content: generated by Hugo under [Apache 2.0 License](https://github.com/gohugoio/hugo/blob/master/LICENSE)
+
+Theme: Mainroad, a Hugo theme released under [GPL V.2 License](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)
+
+Additional software content and styling is released under GPL V.2 License, as per below:
+
+---
+
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 2, June 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The licenses for most software are designed to take away your
+freedom to share and change it.  By contrast, the GNU General Public
+License is intended to guarantee your freedom to share and change free
+software--to make sure the software is free for all its users.  This
+General Public License applies to most of the Free Software
+Foundation's software and to any other program whose authors commit to
+using it.  (Some other Free Software Foundation software is covered by
+the GNU Lesser General Public License instead.)  You can apply it to
+your programs, too.
+
+  When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+this service if you wish), that you receive source code or can get it
+if you want it, that you can change the software or use pieces of it
+in new free programs; and that you know you can do these things.
+
+  To protect your rights, we need to make restrictions that forbid
+anyone to deny you these rights or to ask you to surrender the rights.
+These restrictions translate to certain responsibilities for you if you
+distribute copies of the software, or if you modify it.
+
+  For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must give the recipients all the rights that
+you have.  You must make sure that they, too, receive or can get the
+source code.  And you must show them these terms so they know their
+rights.
+
+  We protect your rights with two steps: (1) copyright the software, and
+(2) offer you this license which gives you legal permission to copy,
+distribute and/or modify the software.
+
+  Also, for each author's protection and ours, we want to make certain
+that everyone understands that there is no warranty for this free
+software.  If the software is modified by someone else and passed on, we
+want its recipients to know that what they have is not the original, so
+that any problems introduced by others will not reflect on the original
+authors' reputations.
+
+  Finally, any free program is threatened constantly by software
+patents.  We wish to avoid the danger that redistributors of a free
+program will individually obtain patent licenses, in effect making the
+program proprietary.  To prevent this, we have made it clear that any
+patent must be licensed for everyone's free use or not licensed at all.
+
+  The precise terms and conditions for copying, distribution and
+modification follow.
+
+                    GNU GENERAL PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. This License applies to any program or other work which contains
+a notice placed by the copyright holder saying it may be distributed
+under the terms of this General Public License.  The "Program", below,
+refers to any such program or work, and a "work based on the Program"
+means either the Program or any derivative work under copyright law:
+that is to say, a work containing the Program or a portion of it,
+either verbatim or with modifications and/or translated into another
+language.  (Hereinafter, translation is included without limitation in
+the term "modification".)  Each licensee is addressed as "you".
+
+Activities other than copying, distribution and modification are not
+covered by this License; they are outside its scope.  The act of
+running the Program is not restricted, and the output from the Program
+is covered only if its contents constitute a work based on the
+Program (independent of having been made by running the Program).
+Whether that is true depends on what the Program does.
+
+  1. You may copy and distribute verbatim copies of the Program's
+source code as you receive it, in any medium, provided that you
+conspicuously and appropriately publish on each copy an appropriate
+copyright notice and disclaimer of warranty; keep intact all the
+notices that refer to this License and to the absence of any warranty;
+and give any other recipients of the Program a copy of this License
+along with the Program.
+
+You may charge a fee for the physical act of transferring a copy, and
+you may at your option offer warranty protection in exchange for a fee.
+
+  2. You may modify your copy or copies of the Program or any portion
+of it, thus forming a work based on the Program, and copy and
+distribute such modifications or work under the terms of Section 1
+above, provided that you also meet all of these conditions:
+
+    a) You must cause the modified files to carry prominent notices
+    stating that you changed the files and the date of any change.
+
+    b) You must cause any work that you distribute or publish, that in
+    whole or in part contains or is derived from the Program or any
+    part thereof, to be licensed as a whole at no charge to all third
+    parties under the terms of this License.
+
+    c) If the modified program normally reads commands interactively
+    when run, you must cause it, when started running for such
+    interactive use in the most ordinary way, to print or display an
+    announcement including an appropriate copyright notice and a
+    notice that there is no warranty (or else, saying that you provide
+    a warranty) and that users may redistribute the program under
+    these conditions, and telling the user how to view a copy of this
+    License.  (Exception: if the Program itself is interactive but
+    does not normally print such an announcement, your work based on
+    the Program is not required to print an announcement.)
+
+These requirements apply to the modified work as a whole.  If
+identifiable sections of that work are not derived from the Program,
+and can be reasonably considered independent and separate works in
+themselves, then this License, and its terms, do not apply to those
+sections when you distribute them as separate works.  But when you
+distribute the same sections as part of a whole which is a work based
+on the Program, the distribution of the whole must be on the terms of
+this License, whose permissions for other licensees extend to the
+entire whole, and thus to each and every part regardless of who wrote it.
+
+Thus, it is not the intent of this section to claim rights or contest
+your rights to work written entirely by you; rather, the intent is to
+exercise the right to control the distribution of derivative or
+collective works based on the Program.
+
+In addition, mere aggregation of another work not based on the Program
+with the Program (or with a work based on the Program) on a volume of
+a storage or distribution medium does not bring the other work under
+the scope of this License.
+
+  3. You may copy and distribute the Program (or a work based on it,
+under Section 2) in object code or executable form under the terms of
+Sections 1 and 2 above provided that you also do one of the following:
+
+    a) Accompany it with the complete corresponding machine-readable
+    source code, which must be distributed under the terms of Sections
+    1 and 2 above on a medium customarily used for software interchange; or,
+
+    b) Accompany it with a written offer, valid for at least three
+    years, to give any third party, for a charge no more than your
+    cost of physically performing source distribution, a complete
+    machine-readable copy of the corresponding source code, to be
+    distributed under the terms of Sections 1 and 2 above on a medium
+    customarily used for software interchange; or,
+
+    c) Accompany it with the information you received as to the offer
+    to distribute corresponding source code.  (This alternative is
+    allowed only for noncommercial distribution and only if you
+    received the program in object code or executable form with such
+    an offer, in accord with Subsection b above.)
+
+The source code for a work means the preferred form of the work for
+making modifications to it.  For an executable work, complete source
+code means all the source code for all modules it contains, plus any
+associated interface definition files, plus the scripts used to
+control compilation and installation of the executable.  However, as a
+special exception, the source code distributed need not include
+anything that is normally distributed (in either source or binary
+form) with the major components (compiler, kernel, and so on) of the
+operating system on which the executable runs, unless that component
+itself accompanies the executable.
+
+If distribution of executable or object code is made by offering
+access to copy from a designated place, then offering equivalent
+access to copy the source code from the same place counts as
+distribution of the source code, even though third parties are not
+compelled to copy the source along with the object code.
+
+  4. You may not copy, modify, sublicense, or distribute the Program
+except as expressly provided under this License.  Any attempt
+otherwise to copy, modify, sublicense or distribute the Program is
+void, and will automatically terminate your rights under this License.
+However, parties who have received copies, or rights, from you under
+this License will not have their licenses terminated so long as such
+parties remain in full compliance.
+
+  5. You are not required to accept this License, since you have not
+signed it.  However, nothing else grants you permission to modify or
+distribute the Program or its derivative works.  These actions are
+prohibited by law if you do not accept this License.  Therefore, by
+modifying or distributing the Program (or any work based on the
+Program), you indicate your acceptance of this License to do so, and
+all its terms and conditions for copying, distributing or modifying
+the Program or works based on it.
+
+  6. Each time you redistribute the Program (or any work based on the
+Program), the recipient automatically receives a license from the
+original licensor to copy, distribute or modify the Program subject to
+these terms and conditions.  You may not impose any further
+restrictions on the recipients' exercise of the rights granted herein.
+You are not responsible for enforcing compliance by third parties to
+this License.
+
+  7. If, as a consequence of a court judgment or allegation of patent
+infringement or for any other reason (not limited to patent issues),
+conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot
+distribute so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you
+may not distribute the Program at all.  For example, if a patent
+license would not permit royalty-free redistribution of the Program by
+all those who receive copies directly or indirectly through you, then
+the only way you could satisfy both it and this License would be to
+refrain entirely from distribution of the Program.
+
+If any portion of this section is held invalid or unenforceable under
+any particular circumstance, the balance of the section is intended to
+apply and the section as a whole is intended to apply in other
+circumstances.
+
+It is not the purpose of this section to induce you to infringe any
+patents or other property right claims or to contest validity of any
+such claims; this section has the sole purpose of protecting the
+integrity of the free software distribution system, which is
+implemented by public license practices.  Many people have made
+generous contributions to the wide range of software distributed
+through that system in reliance on consistent application of that
+system; it is up to the author/donor to decide if he or she is willing
+to distribute software through any other system and a licensee cannot
+impose that choice.
+
+This section is intended to make thoroughly clear what is believed to
+be a consequence of the rest of this License.
+
+  8. If the distribution and/or use of the Program is restricted in
+certain countries either by patents or by copyrighted interfaces, the
+original copyright holder who places the Program under this License
+may add an explicit geographical distribution limitation excluding
+those countries, so that distribution is permitted only in or among
+countries not thus excluded.  In such case, this License incorporates
+the limitation as if written in the body of this License.
+
+  9. The Free Software Foundation may publish revised and/or new versions
+of the General Public License from time to time.  Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.
+
+Each version is given a distinguishing version number.  If the Program
+specifies a version number of this License which applies to it and "any
+later version", you have the option of following the terms and conditions
+either of that version or of any later version published by the Free
+Software Foundation.  If the Program does not specify a version number of
+this License, you may choose any version ever published by the Free Software
+Foundation.
+
+  10. If you wish to incorporate parts of the Program into other free
+programs whose distribution conditions are different, write to the author
+to ask for permission.  For software which is copyrighted by the Free
+Software Foundation, write to the Free Software Foundation; we sometimes
+make exceptions for this.  Our decision will be guided by the two goals
+of preserving the free status of all derivatives of our free software and
+of promoting the sharing and reuse of software generally.
+
+                            NO WARRANTY
+
+  11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN
+OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
+TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE
+PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,
+REPAIR OR CORRECTION.
+
+  12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING
+OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED
+TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
+PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+                     END OF TERMS AND CONDITIONS
+
+            How to Apply These Terms to Your New Programs
+
+  If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
+free software which everyone can redistribute and change under these terms.
+
+  To do so, attach the following notices to the program.  It is safest
+to attach them to the start of each source file to most effectively
+convey the exclusion of warranty; and each file should have at least
+the "copyright" line and a pointer to where the full notice is found.
+
+    <one line to give the program's name and a brief idea of what it does.>
+    Copyright (C) <year>  <name of author>
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along
+    with this program; if not, write to the Free Software Foundation, Inc.,
+    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+Also add information on how to contact you by electronic and paper mail.
+
+If the program is interactive, make it output a short notice like this
+when it starts in an interactive mode:
+
+    Gnomovision version 69, Copyright (C) year name of author
+    Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+
+The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.  Of course, the commands you use may
+be called something other than `show w' and `show c'; they could even be
+mouse-clicks or menu items--whatever suits your program.
+
+You should also get your employer (if you work as a programmer) or your
+school, if any, to sign a "copyright disclaimer" for the program, if
+necessary.  Here is a sample; alter the names:
+
+  Yoyodyne, Inc., hereby disclaims all copyright interest in the program
+  `Gnomovision' (which makes passes at compilers) written by James Hacker.
+
+  <signature of Ty Coon>, 1 April 1989
+  Ty Coon, President of Vice
+
+This General Public License does not permit incorporating your program into
+proprietary programs.  If your program is a subroutine library, you may
+consider it more useful to permit linking proprietary applications with the
+library.  If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.
