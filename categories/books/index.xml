@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Matthew Morycinski</title>
-    <link>http://localhost:1314/categories/books/</link>
+    <link>http://moryce.ca/categories/books/</link>
     <description>Recent content in Books on Matthew Morycinski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://moryce.ca/categories/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lem&#39;s Books</title>
-      <link>http://localhost:1314/post/lems-books/</link>
+      <link>http://moryce.ca/post/lems-books/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1314/post/lems-books/</guid>
+      <guid>http://moryce.ca/post/lems-books/</guid>
       <description>I always loved science-fiction. My favourite writer was a famous Polish author Stanisław Lem. He is not as well known in English-speaking countries, but many of his books were translated into multiple languages. One of his major novels, &amp;ldquo;Solaris,&amp;rdquo; was made into a movie on two occasions, first in the USSR by Tarkovsky (1972), and later in the USA by Sodebergh (2002). Unfortunately, their production values were much more solid than screenwriters&#39; understanding of Lem&amp;rsquo;s writing.</description>
     </item>
     
