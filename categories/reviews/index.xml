@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on Matthew Morycinski</title>
+    <link>http://localhost:1314/categories/reviews/</link>
+    <description>Recent content in Reviews on Matthew Morycinski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lem&#39;s Books</title>
+      <link>http://localhost:1314/post/lems-books/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/post/lems-books/</guid>
+      <description>As a young person, I loved science-fiction. My favourite writer was a famous Polish author Stanisław Lem. He is not as well known in English-speaking countries. However, many of his books were translated into multiple languages, including English. One of his novels, &amp;ldquo;Solaris,&amp;rdquo; was made into a movie, first in the USSR by Tarkovsky (1972), and later in the USA by Sodebergh (2002).&#xA;Lem was not entirely a science-fiction writer. He actually gave up writing in standard science-fiction genre quite early.</description>
+    </item>
+  </channel>
+</rss>
