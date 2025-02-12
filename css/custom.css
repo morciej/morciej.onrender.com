@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+	font-family: Lato, "Open Sans", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+.btn {
+	border-radius: 10px;
+}
+
+.btn:hover {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+hr {
+  border-top: 1px solid #aaaaaa;
+	border-collapse: collapse;
+}
+
+pre,
+code,
+kbd,
+samp {
+	font-family: "IBM Plex Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	white-space : pre-wrap !important;
+}
+
+.menu__link:hover {
+	text-decoration: none;
+}
+
+.meta a:hover {
+	text-decoration: underline;
+}
+
+.post__meta {
+	border-top: 1px solid #ebebeb;
+	border-bottom: 1px solid #ebebeb;
+	box-shadow: 0px 0px 3px #ebebeb;
+}
+
+.tags {
+	border-radius: 10px;
+}
+
+.tags__item {
+	border-radius: 10px;
+}
+
+.tags__link,
+.tags__link:hover {
+	border-radius: 10px;
+}
+
+.tags__badge {
+	border-radius: 10px;
+}
+
+.authorbox {
+	padding: 25px 20px 5px 20px;
+	text-align: justify;
+	box-shadow: 0px 0px 3px #ebebeb;
+}
+
+.authorbox__name {
+	font-size: 20px;
+	font-size: 1.25rem;
+	font-weight: 400;
+}
+
+.authorbox__title {
+	font-size: 20px;
+	font-size: 1.25rem;
+	font-weight: 400;
+}
+
+.wrapper {
+	padding: 25px;
+	background: #fff;
+}
+
+blockquote {
+	border-left: 5px solid #ebebeb;
+}
+
+.widget-taglist__link {
+	border-radius: 10px;
+}
+
+.footer {
+	font-weight: 700;
+}
+
+.logo__title {
+	margin: 0 0 0;
+	padding: 0 0 10px 0;
+	border-bottom: 1px solid #3366ff
+}
+
+.logo__tagline {
+	border-top: none;
+	margin-top: 5px;
+	padding-top: 0px
+}
+
+.logo--mixed .logo__img {
+	max-width: 96px;
+	max-height: 96px;
+}
+
+.logo__title {
+	font-size: 27px;
+	font-size: 1.7rem;
+	font-weight: 700;
+	line-height: 1;
+	color: #000;
+}

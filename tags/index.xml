@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Matthew Morycinski</title>
+    <link>http://localhost:1314/tags/</link>
+    <description>Recent content in Tags on Matthew Morycinski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1314/tags/about/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bio</title>
+      <link>http://localhost:1314/tags/bio/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/bio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1314/tags/books/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trivia</title>
+      <link>http://localhost:1314/tags/trivia/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/tags/trivia/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
