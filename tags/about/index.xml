@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Matthew Morycinski</title>
-    <link>http://localhost:1314/tags/about/</link>
+    <link>http://moryce.ca/tags/about/</link>
     <description>Recent content in About on Matthew Morycinski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://moryce.ca/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1314/about/about/</link>
+      <link>http://moryce.ca/about/about/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/about/about/</guid>
+      <guid>http://moryce.ca/about/about/</guid>
       <description>Maciej (Matthew) Morycinski retired from being an industrial automation technologist, to pursue creative interests and hobbies. Born in Poland, he now lives in Canada, in the province of British Columbia, city of Burnaby. His blog aims to entertain, educate, maybe provoke reflection.&#xA;You can e-mail him at: m at tt dot moryce dot ca&#xA;Your critical remarks are welcome as much as praise.&#xA;Thanks for reading!</description>
     </item>
   </channel>
