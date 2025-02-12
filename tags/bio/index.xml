@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bio on Matthew Morycinski</title>
-    <link>http://moryce.ca/tags/bio/</link>
-    <description>Recent content in bio on Matthew Morycinski</description>
+    <title>Bio on Matthew Morycinski</title>
+    <link>http://localhost:1314/tags/bio/</link>
+    <description>Recent content in Bio on Matthew Morycinski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://moryce.ca/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spiritual Life</title>
+      <link>http://localhost:1314/post/spiritual-life/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/post/spiritual-life/</guid>
+      <description>Dear reader, I have a confession to make. Many years ago, I met a high school friend. Her name I will keep to myself. She was a strong, dare I say fanatical, believer in the Catholic religion. Once, in an emotional conversation, she simply said &amp;ldquo;God loves you Matthew!&amp;rdquo; It must have been said at the right time and place because the orbs of my inner world suddenly started to turn.</description>
+    </item>
     <item>
       <title>Beginnings</title>
-      <link>http://moryce.ca/post/beginnings/</link>
+      <link>http://localhost:1314/post/beginnings/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://moryce.ca/post/beginnings/</guid>
-      <description>Grandpa&amp;rsquo;s typewriter was my first writing instrument. Using it had many advantages over scribbling. There was no need to learn to hold a pen, no risk of smearing. It even held paper for me. The resulting text was usually perfectly legible, as long as the reader overlooked a few words that were X-ed out. Of course, I had to learn to read first! – at least well enough to be able to recognize characters shown on keys.</description>
+      <guid>http://localhost:1314/post/beginnings/</guid>
+      <description>Grandpa&amp;rsquo;s typewriter was my first writing instrument. Using it had advantages over scribbling. There was no need to learn to hold a pen, no risk of smearing. It even held the paper for me. The resulting text was usually perfectly legible, as long as the reader overlooked a few words that were X-ed out. Of course, I had to learn to read first! – at least well enough to be able to recognize characters shown on keys.</description>
     </item>
-    
   </channel>
 </rss>

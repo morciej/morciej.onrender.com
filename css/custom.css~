@@ -101,7 +101,7 @@ blockquote {
 
 .logo__title {
 	margin: 0 0 0;
-	padding: 0 0 10px 0;
+	padding: 0 160px 10px 0;
 	border-bottom: 1px solid #3366ff
 }
 
