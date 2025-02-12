@@ -1,0 +1,8 @@
+// manifest.webmanifest
+{
+  "icons": [
+    { "src": "favicons/64-1.png", "type": "image/png", "sizes": "64x64" },
+    { "src": "favicons/192-1.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "favicons/512-1.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
